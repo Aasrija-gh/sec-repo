@@ -1,3 +1,4 @@
-U.Aasrija
-BSc-Data Science
+Name: U.Aasrija
+Group: BSc-Data Science
+
 GitHub is a unique platform where an individual can upload their projects.
